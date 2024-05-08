@@ -5,9 +5,9 @@ I build 12 dashboards projects based on the tutorial of free code camp:
 
 https://www.youtube.com/watch?v=JwSS70SZdyM&t=1760s
 
-To run each project, you have to download the file and write the following command:
+To run each project, you have to download the file and write the following command from the IDE or terminal:
 
-stremalit run path/file.py
+**stremalit run path/file.py**
 
 Thank you!
 Best Regards, 
